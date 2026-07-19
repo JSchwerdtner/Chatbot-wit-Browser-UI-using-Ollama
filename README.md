@@ -1,4 +1,4 @@
-# Chatbot-wit-Browser-UI-using-Ollama
+# Chatbot-wit-Browser-UI-using-Gemini
 flask
 google-adk
 Ollama
