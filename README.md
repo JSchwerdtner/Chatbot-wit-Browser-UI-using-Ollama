@@ -1,7 +1,4 @@
 # Chatbot-wit-Browser-UI-using-Ollama (Gemini)
-flask
-google-adk
-Ollama
 
 ai_assistant_service/
 
