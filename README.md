@@ -4,6 +4,7 @@ google-adk
 Ollama
 
 ai_assistant_service/
+
 ├── agent.py            # Core Agent Logic
 
 ├── app.py              # Web UI (using Flask)
