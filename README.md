@@ -1,5 +1,9 @@
 # Chatbot-wit-Browser-UI-using-Ollama (Gemini)
 
+requirements:
+flask
+google-adk
+
 ai_assistant_service/
 
 ├── agent.py            # Core Agent Logic
